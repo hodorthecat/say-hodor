@@ -1,6 +1,6 @@
 # SayHodor
 
-TODO: Write a gem description
+Hodor? Hodor!
 
 ## Installation
 
