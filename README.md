@@ -20,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Try using 
+```ruby
+puts
+print
+p
+```
 
 ## Contributing
 
